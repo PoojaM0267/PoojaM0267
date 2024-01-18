@@ -1,7 +1,5 @@
 ### Hello World !!! 👋
 
-Hello World,
-
 ⚡I'm a Software Engineer by profession and a Foodie by heart. I like to Code and Cook. 👩🏽‍💻❤️👩🏽‍🍳
 
 ⚡ By Profession, I am a Full Stack Developer. My key skills are .NET, .NET Core, C#, React, JavaScript, and AWS. I am always learning and improving in all that I do.
